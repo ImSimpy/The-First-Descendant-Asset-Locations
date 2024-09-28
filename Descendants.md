@@ -1,5 +1,4 @@
-# Descendants File Path  
-* `M1/Content/Characters/PC/MESH`
+# Descendants   
 
 # File Location 
 
