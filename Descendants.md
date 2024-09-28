@@ -22,16 +22,16 @@
 ### Descendant name `Lepic` and ` Ultimate Lepic `
  
  
- Lepic's Hair - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/HEAD`
+- Lepic's Hair - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/HEAD`
  
  
- Lepic's Face - `M1/Content/Characters/PC/MESH/001/A/Skel/Face`
+- Lepic's Face - `M1/Content/Characters/PC/MESH/001/A/Skel/Face`
 
 
- Lepic's Body - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/BODY`
+- Lepic's Body - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/BODY`
 
 
- Ultimate Lepic's Head - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/HEAD`
+- Ultimate Lepic's Head - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/HEAD`
 
 
-Ultimate Lepic's Body - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/HEAD`
+- Ultimate Lepic's Body - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/HEAD`
