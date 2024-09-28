@@ -29,17 +29,17 @@ Games that i be getting asset names from
 
 # Characters
  Prograss:
-- Done 
+- Soon
 
 
 # Weapons
  Prograss:
-- By: Next Month 
+- Soon
 
 
 # Bosses 
  Prograss: 
- - Done 
+ - Soon 
 
 
 
