@@ -1,5 +1,13 @@
 
-  
+
+>[!TIP]
+> most of the time with these path you have to press the folder at the end of the patch 
+>
+>
+>
+
+
+
 # File Location 
 
 * `M1/Content/Characters/PC/MESH`
@@ -12,16 +20,18 @@
 
 # 001
 ### Descendant name `Lepic` and ` Ultimate Lepic `
- Face - `M1/Content/Characters/PC/MESH/001/A/Skel/Face`
+ 
+ 
+ Lepic's Hair - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/HEAD`
+ 
+ 
+ Lepic's Face - `M1/Content/Characters/PC/MESH/001/A/Skel/Face`
 
 
+ Lepic's Body - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/BODY`
 
 
+ Ultimate Lepic's Head - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/HEAD`
 
 
-
-
-
-
-
-
+Ultimate Lepic's Body - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/HEAD`
