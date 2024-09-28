@@ -1,4 +1,4 @@
-# The-First-Descendant-Asset-Names
+# The First Descendant Asset Names
 
 > [!TIP]
 > 
