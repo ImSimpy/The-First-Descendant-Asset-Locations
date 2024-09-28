@@ -1,4 +1,4 @@
-# The First Descendant Paths
+# The First Descendant File Locations
 
 > [!TIP]
 > 
