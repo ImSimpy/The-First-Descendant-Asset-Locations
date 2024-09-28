@@ -8,7 +8,8 @@
 `Where do i go to find the asset names?`
 
 
-Great question just press the Folder and Press any `.md` file 
+Great question just press the `Descendant.md file` and Press any `.md` file 
+NOT THE `README.md`
 
 
 # Cant Find This Model
