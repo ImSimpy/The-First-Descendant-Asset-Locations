@@ -35,3 +35,23 @@
 
 
 - Ultimate Lepic's Body - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/HEAD`
+
+
+# 002
+### Descendent name `Ajax` and `Ultimate Ajax`
+
+
+- Ajax's Helmet - `M1/Content/Characters/PC/MESH/002/A/Skel/SKIN/VAR/HEAD`
+
+
+- Ajax's Face - `M1/Content/Characters/PC/MESH/002/A/Skel/Face`
+
+
+- Ajax's Body - `M1/Content/Characters/PC/MESH/002/A/Skel/SKIN/VAR/BODY`
+
+
+- Ultimate Ajax Helmat - `M1/Content/Characters/PC/MESH/002/U/Skel/SKIN/VAR/HEAD`
+
+
+- Ultimate Ajax Body - `M1/Content/Characters/PC/MESH/002/U/Skel/SKIN/VAR/BODY`
+
