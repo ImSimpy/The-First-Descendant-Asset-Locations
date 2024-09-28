@@ -1,7 +1,7 @@
 
 
 >[!TIP]
-> Most of the time with these path you have to press the folder at the end of the patch 
+> Most of the time with these path you have to press the folder at the end of the path
 >
 >
 >
