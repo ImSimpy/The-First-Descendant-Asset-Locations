@@ -48,6 +48,9 @@
 ### Descendent name `Ajax` and `Ultimate Ajax`
 
 
+- Ajax's Textures - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
+
+
 - Ajax's Helmet - `M1/Content/Characters/PC/MESH/002/A/Skel/SKIN/VAR/HEAD`
 
 
@@ -55,6 +58,9 @@
 
 
 - Ajax's Body - `M1/Content/Characters/PC/MESH/002/A/Skel/SKIN/VAR/BODY`
+
+
+- Ultimate - Ajax's Textures - `M1/Content/Characters/PC/MESH/002/U/Skel/SKIN/CMN/Material/000/Textuer`
 
 
 - Ultimate Ajax Helmat - `M1/Content/Characters/PC/MESH/002/U/Skel/SKIN/VAR/HEAD`
@@ -67,6 +73,9 @@
 ### Descendent name `Viessa` and `Ultimate Viessa`
 
 
+- Viessa's Textures - `M1/Content/Characters/PC/MESH/003/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
+
+
 - Viessa's Hair - `M1/Content/Characters/PC/MESH/003/A/Skel/Face`
 
 
@@ -74,6 +83,9 @@
 
 
 - Viessa's Body - `M1/Content/Characters/PC/MESH/003/A/Skel/Face`
+
+
+- Ultimate Viessa's Textures - `M1/Content/Characters/PC/MESH/003/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
 
 
 - Ultimate Viessa's Hair/Helmet - `M1/Content/Characters/PC/MESH/003/U/Skel/SKIN/VAR/BODY`
