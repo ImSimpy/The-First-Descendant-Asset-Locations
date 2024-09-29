@@ -228,7 +228,16 @@
 ### `Sharen`
 
 
+- Sharen's Textures - `M1/Content/Characters/PC/MESH/008/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/008/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
 
+
+- Sharen's Helmet - `M1/Content/Characters/PC/MESH/008/A/Skel/SKIN/VAR/HEAD`
+
+
+- Sharen's Face - `M1/Content/Characters/PC/MESH/008/A/Skel/Face`
+
+
+- Sharen's Body - `
 
 
 # 009
