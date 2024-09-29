@@ -133,9 +133,9 @@
 
 - Sad Bunny's Body - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY`
           ^ 
-  `USE BUNNY'S TEXTURES`
 
 
+   `USE BUNNY'S TEXTURES`
 
 
 - Sad Bunny's Hair - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/HEAD/999`
