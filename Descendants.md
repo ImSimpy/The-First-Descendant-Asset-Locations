@@ -199,9 +199,6 @@
 - Ultimate Freyna's Hair - `Coming Soon`
 
 
-- Ultimate Freyna's Head - `Coming Soon`
-
-
 - Ultimate Freyna's Body - `Coming Soon`
 
 
@@ -228,9 +225,6 @@
 
 
 - Ultimate Gley's Hair - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/HEAD`
-
-
-- Ultimate Gley's Face - `M1/Content/Characters/PC/MESH/007/A/Skel/Face`
 
 
 - Ultimate Gley's Body - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/BODY`
@@ -285,10 +279,32 @@
 - Valby's Body - `M1/Content/Characters/PC/MESH/010/A/Skel/SKIN/VAR/BODY`
 
 
+### `Ultimate Valby`
+
+
+- Ultimate Valby's Textures - `M1/Content/Characters/PC/MESH/010/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
+
+
+- Ultimate Valby's Helmet - `M1/Content/Characters/PC/MESH/010/U/Skel/SKIN/VAR/HEAD`
+
+
+- Ultimate Valby's Body - `M1/Content/Characters/PC/MESH/010/U/Skel/SKIN/VAR/BODY`
+
+
 # 011
 ### `Kyle`
 
 
+- Kyle's Textures - `M1/Content/Characters/PC/MESH/011/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/011/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
+
+
+- Kyle's Hair - `M1/Content/Characters/PC/MESH/011/A/Skel/SKIN/VAR/HEAD`
+
+
+- Kyle's Face - `M1/Content/Characters/PC/MESH/011/A/Skel/Face`
+
+
+- Kyle's Body - `M1/Content/Characters/PC/MESH/011/A/Skel/SKIN/VAR/BODY`
 
 
 
@@ -296,7 +312,16 @@
 ### `Esimo`
 
 
+- Esimo's Textures - `M1/Content/Characters/PC/MESH/012/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/012/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
 
+
+- Esimo's Hair - `M1/Content/Characters/PC/MESH/012/A/Skel/SKIN/VAR/HEAD`
+
+
+- Esimo's Face - `M1/Content/Characters/PC/MESH/012/A/Skel/Face`
+
+
+- Esimo's Body - `M1/Content/Characters/PC/MESH/012/A/Skel/SKIN/VAR/BODY`
 
 
 # 013
