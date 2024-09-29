@@ -328,21 +328,48 @@
 ### `Enzo`
 
 
+- Enzo's Textures - `M1/Content/Characters/PC/MESH/013/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/013/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
 
+
+- Enzo's Hair - `M1/Content/Characters/PC/MESH/013/A/Skel/SKIN/VAR/HEAD`
+
+
+- Enzo's Face - `M1/Content/Characters/PC/MESH/013/A/Skel/Face`
+
+
+- Enzo's Body - `M1/Content/Characters/PC/MESH/013/A/Skel/SKIN/VAR/BODY`
 
 
 # 014
 ### `Yujin`
 
 
+- Yujin's Textures - `M1/Content/Characters/PC/MESH/014/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/014/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
 
+
+- Yujin's Hair - `M1/Content/Characters/PC/MESH/014/A/Skel/SKIN/VAR/HEAD`
+
+
+- Yujin's Face - `M1/Content/Characters/PC/MESH/014/A/Skel/Face`
+
+
+- Yujin's Body - `M1/Content/Characters/PC/MESH/014/A/Skel/SKIN/VAR/BODY`
 
 
 # 015
 ### `Luna`
 
 
+- Luna's Textures - `M1/Content/Characters/PC/MESH/015/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/015/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
 
+
+- Luna's Hair - `M1/Content/Characters/PC/MESH/015/A/Skel/SKIN/VAR/HEAD`
+
+
+- Luna's Face `M1/Content/Characters/PC/MESH/015/A/Skel/Face`
+
+
+- Luna's Body - `M1/Content/Characters/PC/MESH/015/A/Skel/SKIN/VAR/BODY`
 
 
 # 016
