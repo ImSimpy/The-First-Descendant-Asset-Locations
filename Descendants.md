@@ -113,19 +113,10 @@
 - Bunny's Helmet - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY`
 
 
+- Bunny's Face - `M1/Content/Characters/PC/MESH/004/A/Skel/Face`
+
+
 - Bunny's Body - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY`
-
-
-### `Ultimate Bunny`
-
-
-- Ultimate Bunny's Textures - `M1/Content/Characters/PC/MESH/004/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
-
-
-- Ultimate Bunny's Helmet / Hair - `M1/Content/Characters/PC/MESH/009`
-
-
-- Ultimate Bunny's Body - `M1/Content/Characters/PC/MESH/009`
 
 
 ### `Damaged Bunny`
@@ -143,6 +134,9 @@
 - Sad Bunny's Face Texture - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY/Material/000/Cine_Bunny_Ver/Material/Texture`
 
 
+- Sad Bunny's Body - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY`
+
+
 - Sad Bunny's Hair - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/HEAD/999`
 
 
@@ -150,14 +144,53 @@
 ### `Jayber`
 
 
+- Jayber's Textures - `M1/Content/Characters/PC/MESH/005/A/Skel/SKIN/VAR/BODY/Material/000/Textuer`
 
+
+- Jayber's Hair - `M1/Content/Characters/PC/MESH/005/A/Skel/SKIN/VAR/HEAD`
+
+
+- Jayber's Face - `M1/Content/Characters/PC/MESH/005/A/Skel/Face`
+
+
+- Jayber's Body - `M1/Content/Characters/PC/MESH/005/A/Skel/SKIN/VAR/BODY`
 
 
 # 006
 ### `Freyna`
 
 
+- Freyna's Textures - `
 
+
+- Freyna's Hair - `M1/Content/Characters/PC/MESH/006/A/Skel/SKIN/VAR/HEAD`
+
+
+- Freyna's Head - `M1/Content/Characters/PC/MESH/006/A/Skel/Face`
+
+
+- Freyna's Body - `M1/Content/Characters/PC/MESH/006/A/Skel/SKIN/VAR/BODY`
+
+
+### `Pain Freyna`
+
+
+- Sad Freyna Face Textures - `M1/Content/Characters/PC/MESH/006/A/Skel/SKIN/VAR/BODY/Material/000/Cine_Freyna_Ver/Material/Texture`
+
+
+### `Ultimate Freyna`
+
+
+- Ultimate Freyna's Textures - `Coming Soon`
+
+
+- Ultimate Freyna's Hair - `Coming Soon`
+
+
+- Ultimate Freyna's Head - `Coming Soon`
+
+
+- Ultimate Freyna's Body - `Coming Soon`
 
 
 # 007
