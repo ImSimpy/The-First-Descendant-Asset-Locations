@@ -160,7 +160,7 @@
 ### `Freyna`
 
 
-- Freyna's Textures - `
+- Freyna's Textures - `M1/Content/Characters/PC/MESH/006/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
 
 
 - Freyna's Hair - `M1/Content/Characters/PC/MESH/006/A/Skel/SKIN/VAR/HEAD`
