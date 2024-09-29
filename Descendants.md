@@ -121,16 +121,20 @@
 
 - Damaged Bunny's Textures - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
 
+
 - Damaged Bunny's Helmet / Body - `M1/Content/Characters/PC/MESH/004/A/Skel`
 
 
 ### `Sad Cinematic Bunny`
 
 
-- Sad Cinematic Bunny's Face Texture - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY/Material/000/Cine_Bunny_Ver/Material/Texture`
+- Sad Bunny's Face Texture - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY/Material/000/Cine_Bunny_Ver/Material/Texture`
 
 
-Sad Cinematic Bunny's Hair - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/HEAD/999`
+- Sad Bunny's Body - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY`
+
+
+- Sad Bunny's Hair - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/HEAD/999`
 
 
 # 005
