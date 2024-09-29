@@ -119,7 +119,7 @@
 ### `Sad Cinematic Bunny`
 
 
-- Sad Cinematic Bunny's Face Textures - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY/Material/000/Cine_Bunny_Ver/Material/Texture`
+- Sad Cinematic Bunny's Face Texture - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY/Material/000/Cine_Bunny_Ver/Material/Texture`
 
 
 # 005
