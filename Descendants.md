@@ -48,7 +48,7 @@
 
 
 # 002
-### Descendent name `Ajax` and `Ultimate Ajax`
+### Descendent name `Ajax` 
 
 
 - Ajax's Textures - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
@@ -63,6 +63,9 @@
 - Ajax's Body - `M1/Content/Characters/PC/MESH/002/A/Skel/SKIN/VAR/BODY`
 
 
+### Descendant name `Ultimate Ajax`
+
+
 - Ultimate Ajax's Textures - `M1/Content/Characters/PC/MESH/002/U/Skel/SKIN/CMN/Material/000/Textuer`
 
 
@@ -73,7 +76,7 @@
 
 
 # 003 
-### Descendent name `Viessa` and `Ultimate Viessa`
+### Descendent name `Viessa` 
 
 
 - Viessa's Textures - `M1/Content/Characters/PC/MESH/003/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
@@ -86,6 +89,9 @@
 
 
 - Viessa's Body - `M1/Content/Characters/PC/MESH/003/A/Skel/Face`
+
+
+### Descendent name `Ultimate Viessa`
 
 
 - Ultimate Viessa's Textures - `M1/Content/Characters/PC/MESH/003/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
