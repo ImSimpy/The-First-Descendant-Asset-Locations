@@ -243,7 +243,7 @@
 - Sharen's Textures - `M1/Content/Characters/PC/MESH/008/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/008/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
 
 
-- Sharen's Helmet - `M1/Content/Characters/PC/MESH/008/A/Skel/SKIN/VAR/HEAD`
+- Sharen's Helmet / Hair - `M1/Content/Characters/PC/MESH/008/A/Skel/SKIN/VAR/HEAD`
 
 
 - Sharen's Face - `M1/Content/Characters/PC/MESH/008/A/Skel/Face`
@@ -273,7 +273,16 @@
 ### `Valby`
 
 
+- Valby's Textures - `M1/Content/Characters/PC/MESH/010/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/010/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
 
+
+- Valby's Helmet / Hair - `M1/Content/Characters/PC/MESH/010/A/Skel/SKIN/VAR/HEAD`
+
+
+- Valby's Face - `M1/Content/Characters/PC/MESH/010/A/Skel/Face`
+
+
+- Valby's Body - `M1/Content/Characters/PC/MESH/010/A/Skel/SKIN/VAR/BODY`
 
 
 # 011
