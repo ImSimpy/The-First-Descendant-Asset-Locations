@@ -55,3 +55,22 @@
 
 - Ultimate Ajax Body - `M1/Content/Characters/PC/MESH/002/U/Skel/SKIN/VAR/BODY`
 
+
+# 003 
+### Descendent name `Viessa` and `Ultimate Viessa`
+
+
+- Viessa's Hair - `M1/Content/Characters/PC/MESH/003/A/Skel/Face`
+
+
+- Viessa's Face - `M1/Content/Characters/PC/MESH/003/A/Skel/Face`
+
+
+- Viessa's Body - `M1/Content/Characters/PC/MESH/003/A/Skel/Face`
+
+
+- Ultimate Viessa's Hair/Helmet - `M1/Content/Characters/PC/MESH/003/U/Skel/SKIN/VAR/BODY`
+
+
+- Ultimate Viessa's Body - `M1/Content/Characters/PC/MESH/003/U/Skel/SKIN/VAR/BODY`
+
