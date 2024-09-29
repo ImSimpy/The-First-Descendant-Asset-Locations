@@ -197,6 +197,31 @@
 ### `Gley`
 
 
+- Gley's Textures - `M1/Content/Characters/PC/MESH/007/A/Skel/Face`
+
+
+- Gley's Hair - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/HEAD`
+
+
+- Gley's Face - `M1/Content/Characters/PC/MESH/007/A/Skel/Face`
+
+
+- Gley's Body - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/BODY`
+
+
+### `Ultimate Gley`
+
+
+- Ultimate Gley's Textures - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
+
+
+- Ultimate Gley's Hair - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/HEAD`
+
+
+- Ultimate Gley's Face - `M1/Content/Characters/PC/MESH/007/A/Skel/Face`
+
+
+- Ultimate Gley's Body - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/BODY`
 
 
 # 008
