@@ -60,7 +60,7 @@
 - Ajax's Body - `M1/Content/Characters/PC/MESH/002/A/Skel/SKIN/VAR/BODY`
 
 
-- Ultimate - Ajax's Textures - `M1/Content/Characters/PC/MESH/002/U/Skel/SKIN/CMN/Material/000/Textuer`
+- Ultimate Ajax's Textures - `M1/Content/Characters/PC/MESH/002/U/Skel/SKIN/CMN/Material/000/Textuer`
 
 
 - Ultimate Ajax Helmat - `M1/Content/Characters/PC/MESH/002/U/Skel/SKIN/VAR/HEAD`
