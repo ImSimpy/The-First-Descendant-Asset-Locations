@@ -249,7 +249,7 @@
 - Sharen's Face - `M1/Content/Characters/PC/MESH/008/A/Skel/Face`
 
 
-- Sharen's Body - `
+- Sharen's Body - `M1/Content/Characters/PC/MESH/008/A/Skel/SKIN/VAR/BODY`
 
 
 # 009
