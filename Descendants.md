@@ -119,6 +119,18 @@
 - Bunny's Body - `M1/Content/Characters/PC/MESH/004/A/Skel/SKIN/VAR/BODY`
 
 
+### `Ultimate Bunny`
+
+
+- Ultimate Bunny's Textures - `M1/Content/Characters/PC/MESH/004/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
+
+
+- Ultimate Bunny's Helmet - `M1/Content/Characters/PC/MESH/004/U/Skel/SKIN/VAR/HEAD`
+
+
+- Ultimate Bunny's Body - `M1/Content/Characters/PC/MESH/004/U/Skel/SKIN/VAR/BODY`
+
+
 ### `Damaged Bunny`
 
 
