@@ -256,6 +256,16 @@
 ### `Blair`
 
 
+- Blair's Textures - `M1/Content/Characters/PC/MESH/009/A/Skel/SKIN/VAR/BODY/Material/000/Textuer`
+
+
+- Blair's Hair - `M1/Content/Characters/PC/MESH/009/A/Skel/SKIN/VAR/HEAD`
+
+
+- Blair's Face - `M1/Content/Characters/PC/MESH/009/A/Skel/Face`
+
+
+- Blair's Body - `M1/Content/Characters/PC/MESH/009/A/Skel/SKIN/VAR/BODY`
 
 
 
