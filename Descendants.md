@@ -20,7 +20,7 @@
 
 
 # 001
-### Descendant name `Lepic` and ` Ultimate Lepic `
+### Descendant name `Lepic`
  
 
 - Lepic's Textures - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
@@ -33,6 +33,9 @@
 
 
 - Lepic's Body - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/BODY`
+
+
+### Descendant name ` Ultimate Lepic `
 
 
 - Ultimate Lepic's Textures - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
