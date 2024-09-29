@@ -1,14 +1,15 @@
+# Descendants 
 
 
 >[!TIP]
-> Most of the time with these paths you have to press the folder at the end of the path
+> most of the time with these path you have to press the folder at the end of the patch 
 >
 >
 >
 
 
 
-# All Descendants File Location 
+# File Location 
 
 * `M1/Content/Characters/PC/MESH`
 
@@ -21,7 +22,10 @@
 # 001
 ### Descendant name `Lepic` and ` Ultimate Lepic `
  
- 
+
+- Lepic's Textures - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
+
+
 - Lepic's Hair - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/HEAD`
  
  
@@ -29,6 +33,9 @@
 
 
 - Lepic's Body - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/VAR/BODY`
+
+
+- Ultimate Lepic's Textures - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
 
 
 - Ultimate Lepic's Head - `M1/Content/Characters/PC/MESH/001/U/Skel/SKIN/VAR/HEAD`
@@ -74,3 +81,90 @@
 
 - Ultimate Viessa's Body - `M1/Content/Characters/PC/MESH/003/U/Skel/SKIN/VAR/BODY`
 
+
+# 004
+### Descendant name 
+
+
+
+
+
+# 005
+### Descendant name 
+
+
+
+
+
+# 006
+### Descendant name 
+
+
+
+
+
+# 007
+### Descendant name
+
+
+
+
+
+# 008
+### Descendant name 
+
+
+
+
+
+# 009
+### Descendant name 
+
+
+
+
+
+# 010
+### Descendant name 
+
+
+
+
+
+# 011
+### Descendant name 
+
+
+
+
+
+# 012
+### Descendant name 
+
+
+
+
+
+# 013
+### Descendant name 
+
+
+
+
+
+# 014
+### Descendant name 
+
+
+
+
+
+# 015
+### Descendant name 
+
+
+
+
+
+# 016
+### Descendant name 
