@@ -79,7 +79,7 @@
 ### `Viessa` 
 
 
-- Viessa's Textures - `M1/Content/Characters/PC/MESH/003/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
+- Viessa's Textures - `M1/Content/Characters/PC/MESH/003/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/003/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
 
 
 - Viessa's Hair - `M1/Content/Characters/PC/MESH/003/A/Skel/Face`
@@ -156,7 +156,7 @@
 ### `Jayber`
 
 
-- Jayber's Textures - `M1/Content/Characters/PC/MESH/005/A/Skel/SKIN/VAR/BODY/Material/000/Textuer`
+- Jayber's Textures - `M1/Content/Characters/PC/MESH/005/A/Skel/SKIN/VAR/BODY/Material/000/Textuer` / `M1/Content/Characters/PC/MESH/005/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
 
 
 - Jayber's Hair - `M1/Content/Characters/PC/MESH/005/A/Skel/SKIN/VAR/HEAD`
@@ -221,7 +221,7 @@
 ### `Ultimate Gley`
 
 
-- Ultimate Gley's Textures - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/BODY/Material/000/Texture`
+- Ultimate Gley's Textures - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/HEAD/Material/007/Texture`
 
 
 - Ultimate Gley's Hair - `M1/Content/Characters/PC/MESH/007/A/Skel/SKIN/VAR/HEAD`
@@ -374,3 +374,16 @@
 
 # 016
 ### `Hailey`
+
+
+- Hailey's Textures - `M1/Content/Characters/PC/MESH/016/A/Skel/SKIN/VAR/BODY/Material/000/Texture` / `M1/Content/Characters/PC/MESH/016/A/Skel/SKIN/VAR/HEAD/Material/000/Texture`
+
+
+- Hailey's Hair - `M1/Content/Characters/PC/MESH/016/A/Skel/SKIN/VAR/HEAD`
+
+
+- Hailey's Face - `M1/Content/Characters/PC/MESH/016/A/Skel/Face`
+
+
+- Hailey's Body - `M1/Content/Characters/PC/MESH/016/A/Skel/SKIN/VAR/BODY`
+
