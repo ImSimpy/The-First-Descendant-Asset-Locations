@@ -2,7 +2,7 @@
 
 
 >[!TIP]
-> most of the time with these path you have to press the folder at the end of the patch 
+> most of the time with these path you have to press the folder at the end of the path
 >
 >
 >
