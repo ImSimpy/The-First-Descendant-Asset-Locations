@@ -15,46 +15,44 @@
 
 
 # 1001 
-### Walker 
+### `Walker` 
 
 - Grave Walker - `M1/Content/Characters/Boss/1001/A001/MESH/Skel`
+
+
+- Grave Walker's Textures - `M1/Content/Characters/Boss/1001/A001/MESH/Material/Texture`
 
 
 - Swamp Walker - `M1/Content/Characters/Boss/1001/B001/MESH/Skel`
 
 
+- Swamp Walker's Textures - `M1/Content/Characters/Boss/1001/B001/MESH/Material/Texture`
+
+
 - Frost Walker - `M1/Content/Characters/Boss/1001/C001/MESH/Skel`
 
 
+- Frost Walker's Textures - `M1/Content/Characters/Boss/1001/C001/MESH/Material/Texture`
 
 
-1002 
+
+# 1002 
+### `???`
+
 -----
-A001 - Executioner 
-B001 - Pyromaniac
-C001 - Obstructer 
+- Executioner - `M1/Content/Characters/Boss/1002/A001/MESH/Skel`
 
 
-1003 
------
-A001 - Death Bride 
-B001 - Stunning Beauty 
+- Executioner's Textures - `M1/Content/Characters/Boss/1002/A001/MESH/Material/Texture`
 
 
-1004 
------
-A001 - Devourer
-B001 - Gluttony 
+- Pyromaniac - `M1/Content/Characters/Boss/1002/B001/MESH/Skel`
 
 
-1005
------
-A001 - Hanged Man
+- Pyromaniac's Textures - `M1/Content/Characters/Boss/1002/B001/MESH/Material/Texture`
 
 
-1006
------
-A001 - Molten Fortress 
+- Obstructer - `M1/Content/Characters/Boss/1002/C001/MESH/Skel`
 
 
-File Location : M1/Content/Boss
+- Obstructer's Textures - `M1/Content/Characters/Boss/1002/C001/MESH/Material/Texture`
