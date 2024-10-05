@@ -117,6 +117,6 @@
  - Death Stalker - `Coming Soon`
 
  
- - Death Stalker -`Coming Soon`
+ - Death Stalker's Textures -`Coming Soon`
 
 
