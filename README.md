@@ -29,9 +29,14 @@ Games that i be getting asset names from
  - Black Ops 6
 
 
-# Characters
+# Descendants 
  Prograss:
-- Soon
+- Done
+
+
+# Descendant's Skins 
+ Prograss:
+- WIP
 
 
 # Weapons
@@ -41,7 +46,7 @@ Games that i be getting asset names from
 
 # Bosses 
  Prograss: 
- - Soon 
+ - Done 
 
 
 
