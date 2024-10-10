@@ -193,13 +193,13 @@
 ### `Ultimate Freyna`
 
 
-- Ultimate Freyna's Textures - `Coming Soon`
+- Ultimate Freyna's Textures - `M1/Content/Characters/PC/MESH/006/U/Skel/SKIN/VAR/BODY/Material/000/Texture`
 
 
-- Ultimate Freyna's Hair - `Coming Soon`
+- Ultimate Freyna's Hair - `M1/Content/Characters/PC/MESH/007`
 
 
-- Ultimate Freyna's Body - `Coming Soon`
+- Ultimate Freyna's Body - `M1/Content/Characters/PC/MESH/007`
 
 
 # 007
