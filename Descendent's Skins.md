@@ -14,12 +14,6 @@
 * `M1/Content/Characters/PC/MESH`
 
 
-# 000
-### `???`
-- N/A 
-
-
-# 001
 ### Lepic
  
 
@@ -33,6 +27,9 @@
 
 
  - Textures - `M1/Content/Characters/PC/MESH/001/A/Skel/SKIN/BOS/Material/1002/Texture`
+
+
+
 
 
 
