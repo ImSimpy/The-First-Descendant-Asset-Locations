@@ -30,10 +30,18 @@
 
 
 
+### Freyna
+
+- `Toxic Plant Disposal Suit`
 
 
+- Head - `M1/Content/Characters/PC/MESH/006/U/Skel/SKIN/CMN/001`
 
 
+- Body - `M1/Content/Characters/PC/MESH/006/U/Skel/SKIN/CMN/001`
+
+
+- Textures - `M1/Content/Characters/PC/MESH/006/U/Skel/SKIN/CMN/Material/001/Texture`
 
 
 
