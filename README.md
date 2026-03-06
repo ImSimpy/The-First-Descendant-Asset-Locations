@@ -21,12 +21,6 @@ NOT THE `README.md`
 # Help
  If you cant find a model or skin just lmk i try to find it for you 
 
- 
-
-# Future Projects
-Games that i be getting asset names from
-  
- - Black Ops 6
 
 
 # Descendants 
